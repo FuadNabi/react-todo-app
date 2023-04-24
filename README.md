@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 To Do List <a name="about-project"></a>
 
 > "To Do List" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
